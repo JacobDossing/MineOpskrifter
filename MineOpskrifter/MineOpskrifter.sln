@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineOpskrifter.Client", "MineOpskrifter.Client\MineOpskrifter.Client.csproj", "{F0642409-90C2-494C-9099-D3D62643F9CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineOpskrifter.Api", "MineOpskrifter.Api\MineOpskrifter.Api.csproj", "{7C9BFBA3-C476-49A2-9F8C-F64CDE3F351A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineOpskrifter.Contracts", "MineOpskrifter.Contracts\MineOpskrifter.Contracts.csproj", "{7FB44F71-FC40-4FF8-8597-00882B1EC3D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F0642409-90C2-494C-9099-D3D62643F9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0642409-90C2-494C-9099-D3D62643F9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0642409-90C2-494C-9099-D3D62643F9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9BFBA3-C476-49A2-9F8C-F64CDE3F351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9BFBA3-C476-49A2-9F8C-F64CDE3F351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9BFBA3-C476-49A2-9F8C-F64CDE3F351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9BFBA3-C476-49A2-9F8C-F64CDE3F351A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB44F71-FC40-4FF8-8597-00882B1EC3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB44F71-FC40-4FF8-8597-00882B1EC3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB44F71-FC40-4FF8-8597-00882B1EC3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB44F71-FC40-4FF8-8597-00882B1EC3D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
